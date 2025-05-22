@@ -44,7 +44,7 @@ logs/
 └── app.log                  # Log file
 ```
 
-## Getting Started
+## Getting Started yes 
 
 ### 1. Clone the repository
 ```bash
