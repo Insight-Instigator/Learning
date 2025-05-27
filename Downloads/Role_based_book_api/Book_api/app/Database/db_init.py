@@ -2,8 +2,8 @@ import asyncio
 import sys
 import logging
 from sqlalchemy.ext.asyncio import create_async_engine
-from models import metadata
-from db_config import DATABASE_URL
+from app.models.models import metadata
+from app.Database.db_config import DATABASE_URL
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
