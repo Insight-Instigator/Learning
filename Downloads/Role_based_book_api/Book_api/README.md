@@ -113,7 +113,7 @@ curl -X DELETE http://localhost:8000/books/1
 ## Deployment Test
 
 This is a test change to trigger GitHub and it is finally trigerred heheheheh doneeeeee.
-hello
+hello the ec2 deployment done with activated cloud watch donnnnnnnnnnnnnne
 
 ```
 
